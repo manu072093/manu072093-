@@ -3,7 +3,7 @@
 <p align="center">
   <b>Java Backend Developer · Fresher · Bangalore, India</b><br/>
   Passionate about building real-world web applications with clean, maintainable code.<br/>
-  Currently learning Spring Boot · Open to full-time opportunities 🚀
+  Spring Boot · JSP & Servlets · MySQL · Open to full-time opportunities 🚀
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
   <a href="https://github.com/manu072093" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="manojneymar58@gmail.com">
+  <a href="mailto:Manojneymar58@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
@@ -24,10 +24,10 @@
 
 - 🎓 Computer Science graduate, based in **Bangalore, India**
 - 💼 Fresher actively looking for **Java Developer / Backend Developer** roles
-- 🔭 Currently building with **Spring Boot** (REST APIs, JPA, Spring Security)
+- 🔭 Built projects using **Spring Boot** (MVC, JPA, REST) and **JSP/Servlets**
 - 💡 Strong foundation in **Java, JSP, Servlets, JDBC, MySQL**
-- 🌱 Always learning — currently exploring **Spring Boot + Microservices**
-- 📫 Reach me at: **manojneymar58@gmail.com**
+- 🌱 Currently exploring **Spring Security + JWT** and **Microservices**
+- 📫 Reach me at: **Manojneymar58@gmail.com**
 
 ---
 
@@ -56,6 +56,15 @@
 ---
 
 ## 🚀 Featured Projects
+
+### 👨‍💼 [Employee-MS](https://github.com/manu072093/Employee-MS)
+> A full-stack Employee Management System built with Spring Boot 3.5 & Java 17
+
+- Built with **Spring Boot 3.5, Spring MVC, Spring Data JPA, Thymeleaf, MySQL**
+- **Role-based access** — separate Admin and Employee dashboards with session management
+- Admin can **add, view, edit & delete** employees with department tracking
+- Employees can **register, login, logout** and manage their own profile
+- Clean layered architecture — Controller → Service → Repository (JPA)
 
 ### 🐾 [PetsHUB](https://github.com/manu072093/PetsHUB)
 > A full-stack pet adoption & management platform
@@ -93,7 +102,7 @@
 I'm actively looking for **Java Developer / Backend Developer** opportunities in Bangalore.
 If you're hiring or know someone who is — let's talk!
 
-> 📧 **manojneymar58@gmail.com** &nbsp;|&nbsp; 🌐 [manojkumar-deve.netlify.app](https://manojkumar-deve.netlify.app)
+> 📧 **Manojneymar58@gmail.com** &nbsp;|&nbsp; 🌐 [manojkumar-deve.netlify.app](https://manojkumar-deve.netlify.app)
 
 ---
 
