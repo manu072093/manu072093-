@@ -93,7 +93,7 @@
 I'm actively looking for **Java Developer / Backend Developer** opportunities in Bangalore.
 If you're hiring or know someone who is — let's talk!
 
-> 📧 **your.email@gmail.com** &nbsp;|&nbsp; 🌐 [manojkumar-deve.netlify.app](https://manojkumar-deve.netlify.app)
+> 📧 **manojneymar58@gmail.com** &nbsp;|&nbsp; 🌐 [manojkumar-deve.netlify.app](https://manojkumar-deve.netlify.app)
 
 ---
 
