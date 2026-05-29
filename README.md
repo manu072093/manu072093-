@@ -91,8 +91,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manu072093&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manu072093&layout=compact&theme=default&hide_border=true" height="150" alt="Top languages" />
+  <img src="https://streak-stats.demolab.com?user=manu072093&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D" height="150" alt="GitHub streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manu072093&layout=compact&theme=default&hide_border=true&langs_count=6" height="140" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manu072093&theme=minimal&hide_border=true&area=true" alt="GitHub activity graph" />
 </p>
 
 ---
